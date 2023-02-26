@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalhando na área de Suporte.
 - 📚 Cursando Técnico de Desenvolvimento de Sistemas.
 - 🌱 Estudando JavaScript, HTML5 e CSS.
-
 <div>
   <a href="https://github.com/medeiros-augusto">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=medeiros-augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
